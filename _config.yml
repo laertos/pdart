@@ -44,7 +44,7 @@ baseurl: "/jekyll-theme-prologue" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Social settings
-facebook_url:
+facebook_url: 
 github_url:
 googleplus_url:
 instagram_url:
